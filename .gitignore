@@ -1,4 +1,6 @@
-dblite-env/
+dblite-env/bin/*
+dblite-env/include/*
+dblite-env/lib/*
 debug.log
 test.dump
 __pycache__/
