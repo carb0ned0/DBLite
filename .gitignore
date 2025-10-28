@@ -1,0 +1,5 @@
+dblite-env/
+debug.log
+test.dump
+__pycache__/
+*.pyc
