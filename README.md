@@ -200,4 +200,4 @@ OK
 
 ## License
 
-This project is licensed under the MIT License. (You can add a LICENSE file with the MIT license text if you wish).
+This project is licensed under the MIT License.
