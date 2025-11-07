@@ -182,21 +182,16 @@ Command | Arguments | Description
 The project includes a full test suite that verifies all functionality. The test script will automatically start the server, run all tests, and then shut it down.
 
 1. Make sure you have the server running or stopped (the test suite will manage it).
+    ![Running Server](/img/server.png)
 2. Run the test file:
 
-```bash
-python test_dblite.py
-```
+    ```bash
+    python test_dblite.py
+    ```
+
+    ![Test](/img/test.png)
 
 You should see an OK message indicating all tests have passed.
-
-```bash
-..........
-----------------------------------------------------------------------
-Ran 10 tests in 2.577s
-
-OK
-```
 
 ## License
 

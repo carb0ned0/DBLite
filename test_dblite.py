@@ -2,7 +2,6 @@ import unittest
 import time
 import socket
 import subprocess
-import threading
 
 class TestDBLite(unittest.TestCase):
     @classmethod
